@@ -1,2 +1,2 @@
 # mlops-notes
-My notes and homeworks for the MLOps Zoomcamp class 
+My notes and homeworks for [the MLOps class](https://github.com/DataTalksClub/mlops-zoomcamp).
